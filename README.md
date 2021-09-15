@@ -18,4 +18,4 @@
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjidakter&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Sanjidakter/github-readme-stats)
 
-[![Visits Badge](https://badges.pufler.dev/visits/jSanjidakter/Sanjidakter)](https://github.com/Sanjidakter)
+[![Visits Badge](https://badges.pufler.dev/visits/Sanjidakter/Sanjidakter)](https://github.com/jSanjidakter)
