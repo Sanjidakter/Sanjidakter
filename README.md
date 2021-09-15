@@ -14,4 +14,8 @@
 [![MySql](https://img.shields.io/badge/-MySql-cyan?style=flat-square&logo=mysql&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
 <br/>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjidakter&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjidakter&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Sanjidakter/github-readme-stats)
 
+[![Visits Badge](https://badges.pufler.dev/visits/jSanjidakter/Sanjidakter)](https://github.com/Sanjidakter)
