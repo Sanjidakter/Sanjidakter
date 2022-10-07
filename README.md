@@ -12,7 +12,7 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/Sanjidakter8)](https://github.com/Sanjidakter) 
 [![Php](https://img.shields.io/badge/-PHP-gray?style=flat-square&logo=php&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
 [![MySql](https://img.shields.io/badge/-MySql-cyan?style=flat-square&logo=mysql&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
-[![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=mysql&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
+[![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
 <br/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjidakter&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
