@@ -11,6 +11,7 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/Sanjidakter8)](https://github.com/Sanjidakter) 
 [![Php](https://img.shields.io/badge/-PHP-gray?style=flat-square&logo=php&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
+[![Laravel](https://img.shields.io/badge/-Laravel-E34F26?style=flat-square&logo=Laravel&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
 [![MySql](https://img.shields.io/badge/-MySql-white?style=flat-square&logo=mysql&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
 [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
 <br/>
