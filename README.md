@@ -22,5 +22,4 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/Sanjidakter/Sanjidakter)](https://github.com/Sanjidakter)
 
-#### Profile Visits
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Sanjidakter)
+
