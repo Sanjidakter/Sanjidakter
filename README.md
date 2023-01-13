@@ -1,5 +1,8 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<p align="center"><!--<a href="https://sanjidakter.github.io">--><img width="80%" alt="Hello, I'm Sanjida. " src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
 - 📫 How to reach me: 🙂
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&link=https://https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
 - [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://https://github.com/Sanjidakter)](https://https://github.com/Sanjidakter)
@@ -23,6 +26,7 @@
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjidakter&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Sanjidakter/github-readme-stats) -->
 
-[![Visits Badge](https://badges.pufler.dev/visits/Sanjidakter/Sanjidakter)](https://github.com/Sanjidakter)
+<!-- [![Visits Badge](https://badges.pufler.dev/visits/Sanjidakter/Sanjidakter)](https://github.com/Sanjidakter) -->
 
-
+#### Profile Visits
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sanjidakter)
