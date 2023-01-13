@@ -16,6 +16,9 @@
 [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
 <br/>
 
+| <a href="https://github.com/sanjidakter/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjidakter&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sanjida's github stats" /></a> | <a href="https://github.com/sanjidakter/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjidakter&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjidakter&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjidakter&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Sanjidakter/github-readme-stats)
