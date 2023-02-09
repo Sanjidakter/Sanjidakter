@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 📫 How to reach me: 🙂
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&link=https://[https://github.com/Sanjidakter](https://www.linkedin.com/in/sanjida-akter-594520217/))](https://github.com/Sanjidakter)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&link=https://github.com/Sanjidakter)](https://https://www.linkedin.com/in/sanjida-akter-594520217/)
 - [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://https://github.com/Sanjidakter)](https://https://github.com/Sanjidakter)
 
 
