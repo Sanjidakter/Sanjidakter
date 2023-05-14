@@ -13,7 +13,6 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/Sanjidakter8)](https://github.com/Sanjidakter) 
 [![Bootstrap5](https://img.shields.io/badge/-Bootstrap5-8A2BE2?style=flat-square&logo=bootstrap&link=https://github.com/Sanjidakter8)](https://github.com/Sanjidakter) 
 [![Tailwind](https://img.shields.io/badge/-Tailwind-8A2BE2?style=flat-square&logo=tailwind&link=https://github.com/Sanjidakter8)](https://github.com/Sanjidakter) 
-
 <br/>
 [![Php](https://img.shields.io/badge/-PHP-gray?style=flat-square&logo=php&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
 [![Laravel](https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=Laravel&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
@@ -32,4 +31,5 @@
 <!-- [![Visits Badge](https://badges.pufler.dev/visits/Sanjidakter/Sanjidakter)](https://github.com/Sanjidakter) -->
 
 #### Profile Visits
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sanjidakter)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=sanjidakter) -->
+[![Visits Badge](https://badges.pufler.dev/visits/Sanjidakter/Sanjidakter)](https://github.com/Sanjidakter)
