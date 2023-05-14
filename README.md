@@ -12,9 +12,13 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/Sanjidakter8)](https://github.com/Sanjidakter) 
 [![Bootstrap5](https://img.shields.io/badge/-Bootstrap5-8A2BE2?style=flat-square&logo=bootstrap&link=https://github.com/Sanjidakter8)](https://github.com/Sanjidakter) 
+[![Tailwind](https://img.shields.io/badge/-Tailwind-8A2BE2?style=flat-square&logo=tailwind&link=https://github.com/Sanjidakter8)](https://github.com/Sanjidakter) 
+
+<br/>
 [![Php](https://img.shields.io/badge/-PHP-gray?style=flat-square&logo=php&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
 [![Laravel](https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=Laravel&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
 [![MySql](https://img.shields.io/badge/-MySql-white?style=flat-square&logo=mysql&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
 
 <br/>
 
