@@ -23,6 +23,7 @@
 [![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
 
 <br/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 
 | <a href="https://github.com/sanjidakter/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjidakter&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sanjida's github stats" /></a> | <a href="https://github.com/sanjidakter/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjidakter&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
