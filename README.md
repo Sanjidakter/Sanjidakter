@@ -10,20 +10,26 @@
 
 #### My stack mostly includes
 ![C++](https://img.shields.io/badge/-C++-white?style=flat&logo=C%2B%2B&logoColor=00599C)
-[![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)<br/>
+[![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter) 
+<br/>
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/Sanjidakter8)](https://github.com/Sanjidakter) 
 [![Bootstrap5](https://img.shields.io/badge/-Bootstrap5-F3F6F4?style=flat-square&logo=bootstrap&link=https://github.com/Sanjidakter8)](https://github.com/Sanjidakter) 
 [![Tailwind](https://img.shields.io/badge/-Tailwind-6FA8DC?style=flat-square&logo=tailwindcss&link=https://github.com/Sanjidakter8)](https://github.com/Sanjidakter) 
+[![Figma](https://img.shields.io/badge/-Figma-white?style=flat-square&logo=figma&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
 <br/>
 [![Php](https://img.shields.io/badge/-PHP-gray?style=flat-square&logo=php&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
 [![Laravel](https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=Laravel&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
 [![MySql](https://img.shields.io/badge/-MySql-white?style=flat-square&logo=mysql&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
+[![Express.js](https://img.shields.io/badge/-Express.js-FF6C37?style=flat-square&logo=express&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
+[![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
 
 <br/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+
+
+
 
 | <a href="https://github.com/sanjidakter/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjidakter&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sanjida's github stats" /></a> | <a href="https://github.com/sanjidakter/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjidakter&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
