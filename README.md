@@ -2,9 +2,10 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 ### Hey there,I'm Sanjida <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+- A passionate Web Developer from 🇧🇩
 - 📫 How to reach me: 🙂
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&link=https://github.com/Sanjidakter)](https://www.linkedin.com/in/sanjida-akter-594520217/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&link=https://github.com/Sanjidakter)](sanjidakter2304@gmail.com)
+- [![GMail](https://img.shields.io/badge/-GMail-white?style=flat-square&logo=GMail&link=https://github.com/Sanjidakter)](https://www.linkedin.com/in/sanjida-akter-594520217/)
 - [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://https://github.com/Sanjidakter)](https://https://github.com/Sanjidakter)
 
 
