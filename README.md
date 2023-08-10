@@ -12,13 +12,16 @@
 #### My stack mostly includes
 ![C++](https://img.shields.io/badge/-C++-white?style=flat&logo=C%2B%2B&logoColor=00599C)
 [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter) 
 <br/>
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/Sanjidakter8)](https://github.com/Sanjidakter) 
-[![Bootstrap5](https://img.shields.io/badge/-Bootstrap5-F3F6F4?style=flat-square&logo=bootstrap&link=https://github.com/Sanjidakter8)](https://github.com/Sanjidakter) 
+[![Bootstrap5](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/Sanjidakter8)](https://github.com/Sanjidakter) 
 [![Tailwind](https://img.shields.io/badge/-Tailwind-6FA8DC?style=flat-square&logo=tailwindcss&link=https://github.com/Sanjidakter8)](https://github.com/Sanjidakter) 
 [![Figma](https://img.shields.io/badge/-Figma-white?style=flat-square&logo=figma&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
+<br/>
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter) 
+[![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter) 
+[![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter) 
 <br/>
 [![Php](https://img.shields.io/badge/-PHP-gray?style=flat-square&logo=php&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
 [![Laravel](https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=Laravel&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
