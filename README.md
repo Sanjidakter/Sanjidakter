@@ -43,7 +43,6 @@
 
 <!-- [![Visits Badge](https://badges.pufler.dev/visits/Sanjidakter/Sanjidakter)](https://github.com/Sanjidakter) -->
 
-#### Profile Visits
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=sanjidakter) -->
 <!--[![Visits Badge](https://badges.pufler.dev/visits/Sanjidakter/Sanjidakter)](https://github.com/Sanjidakter)-->
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=Sanjidakter&label=Profile%20views&color=0e75b6&style=flat" alt="sanjidakter" /> </span>
@@ -51,3 +50,5 @@
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjidakter&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
 </p>
+
+![Waves](https://raw.githubusercontent.com/Sanjidakter/Sanjidakter/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)
