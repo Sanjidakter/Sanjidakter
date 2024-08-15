@@ -6,7 +6,7 @@
 - 📫 How to reach me: 🙂
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&link=https://github.com/Sanjidakter)](sanjidakter2304@gmail.com)
 - [![GMail](https://img.shields.io/badge/-GMail-white?style=flat-square&logo=GMail&link=https://github.com/Sanjidakter)](https://www.linkedin.com/in/sanjida-akter-594520217/)
-- [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://https://github.com/Sanjidakter)](https://https://github.com/Sanjidakter)
+- [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
 
 
 #### My stack mostly includes
