@@ -32,7 +32,7 @@
 
 <br/>
 
-
+<a href="https://app.daily.dev/Sanjidakter"><img src="https://api.daily.dev/devcards/v2/TDaRg6erPH1pXs1JQZF7g.png?type=wide&r=ubk" width="652" alt="Sanjidakter's Dev Card"/></a>
 
 | <a href="https://github.com/sanjidakter/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjidakter&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sanjida's github stats" /></a> | <a href="https://github.com/sanjidakter/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjidakter&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
