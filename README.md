@@ -23,8 +23,6 @@
 [![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter) 
 [![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter) 
 <br/>
-[![Php](https://img.shields.io/badge/-PHP-gray?style=flat-square&logo=php&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
-[![Laravel](https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=Laravel&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
 [![MySql](https://img.shields.io/badge/-MySql-white?style=flat-square&logo=mysql&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
 [![Express.js](https://img.shields.io/badge/-Express.js-FF6C37?style=flat-square&logo=express&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
