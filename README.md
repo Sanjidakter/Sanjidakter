@@ -2,7 +2,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 ### Hey there,I'm Sanjida <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-- A passionate Web Developer from 🇧🇩. Currently pursuing masters in Data Science at ITU Copenhagen dk
+- Currently pursuing masters in Data Science at ITU Copenhagen dk
 - 📫 How to reach me: 🙂
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&link=https://github.com/Sanjidakter)](https://www.linkedin.com/in/sanjida-akter-594520217/)
 - [![GMail](https://img.shields.io/badge/-GMail-white?style=flat-square&logo=GMail&link=https://github.com/Sanjidakter)](sanjidakter2304@gmail.com)
@@ -20,12 +20,11 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://github.com/Sanjidakter) [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://github.com/Sanjidakter) [![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://github.com/Sanjidakter) [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://github.com/Sanjidakter)
 
 <br/>
-<div align="center">
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=Sanjidakter&label=Profile%20views&color=0e75b6&style=flat" alt="sanjidakter" /> </span>
 
-<a href="https://github.com/sanjidakter"><img height="165" src="https://github-readme-stats.vercel.app/api?username=sanjidakter&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sanjida's GitHub stats" /></a>
-<a href="https://github.com/sanjidakter"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjidakter&layout=compact&theme=buefy&hide_border=true" alt="Top languages" /></a>
-
-</div>
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjidakter&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
+</p>
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjidakter&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 <br/>
