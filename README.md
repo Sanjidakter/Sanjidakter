@@ -10,18 +10,14 @@
 
 
 #### My stack mostly includes
-![C++](https://img.shields.io/badge/-C++-white?style=flat&logo=C%2B%2B&logoColor=00599C) [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Sanjidakter)
 <br/>
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/Sanjidakter8)](https://github.com/Sanjidakter) [![Bootstrap5](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/Sanjidakter8)](https://github.com/Sanjidakter) [![Tailwind](https://img.shields.io/badge/-Tailwind-6FA8DC?style=flat-square&logo=tailwindcss&link=https://github.com/Sanjidakter8)](https://github.com/Sanjidakter) [![Figma](https://img.shields.io/badge/-Figma-white?style=flat-square&logo=figma&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/Sanjidakter) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://github.com/Sanjidakter) [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)](https://github.com/Sanjidakter) [![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://github.com/Sanjidakter) [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://github.com/Sanjidakter)
 <br/>
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter) 
-[![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter) 
-[![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter) 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/Sanjidakter) [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/Sanjidakter) [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/Sanjidakter)
 <br/>
-[![MySql](https://img.shields.io/badge/-MySql-white?style=flat-square&logo=mysql&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
-[![Express.js](https://img.shields.io/badge/-Express.js-FF6C37?style=flat-square&logo=express&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
-[![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase&link=https://github.com/Sanjidakter)](https://github.com/Sanjidakter)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://github.com/Sanjidakter) [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://github.com/Sanjidakter) [![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://github.com/Sanjidakter) [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://github.com/Sanjidakter)
 
 <br/>
 
