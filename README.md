@@ -20,11 +20,12 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://github.com/Sanjidakter) [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://github.com/Sanjidakter) [![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://github.com/Sanjidakter) [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://github.com/Sanjidakter)
 
 <br/>
+<div align="center">
 
-<a href="https://app.daily.dev/Sanjidakter"></a>
+<a href="https://github.com/sanjidakter"><img height="165" src="https://github-readme-stats.vercel.app/api?username=sanjidakter&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sanjida's GitHub stats" /></a>
+<a href="https://github.com/sanjidakter"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjidakter&layout=compact&theme=buefy&hide_border=true" alt="Top languages" /></a>
 
-| <a href="https://github.com/sanjidakter/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjidakter&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sanjida's github stats" /></a> | <a href="https://github.com/sanjidakter/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjidakter&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+</div>
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjidakter&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 <br/>
@@ -34,10 +35,10 @@
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=sanjidakter) -->
 <!--[![Visits Badge](https://badges.pufler.dev/visits/Sanjidakter/Sanjidakter)](https://github.com/Sanjidakter)-->
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=Sanjidakter&label=Profile%20views&color=0e75b6&style=flat" alt="sanjidakter" /> </span>
+<img src="https://komarev.com/ghpvc/?username=Sanjidakter&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjidakter&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjidakter&theme=dark&background=0D1117&hide_border=true&stroke=FFFFFF&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&currStreakLabel=FB8C00&dates=6E6E6E&fire=FB8C00" alt="GitHub streak stats" />
 </p>
 
 ![Waves](https://raw.githubusercontent.com/Sanjidakter/Sanjidakter/d94be59919e3e2340d499981bce72b2e0e1cfedc/wave.svg)
